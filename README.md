@@ -20,7 +20,7 @@ Antes de começar, certifique-se de que você tem o Python instalado. As bibliot
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/envio-email-python.git
+git clone https://github.com/sayydaviid/NoSpamEmail
 ```
 
 ### 3. Configuração
